@@ -23,7 +23,7 @@ A Power BI dashboard analyzing sales performance by product, region, and month u
 - **Bar Chart (Sales by Region)**:  
   - *Axis*: `Region`.  
   - *Values*: Sum of `Sales`.  
-  - **Color Gradient**: Darker shades for higher sales (see [How to Apply Gradient](#🎨-color-gradient-guide)).  
+  - **Color Gradient**: Darker shades for higher sales   
 - **Donut Chart (Sales by Category)**:  
   - *Legend*: `Category`.  
   - *Values*: Sum of `Sales`.  
@@ -40,10 +40,7 @@ A Power BI dashboard analyzing sales performance by product, region, and month u
 
 ---
 
-## 🎨 Color Gradient Guide
-To apply a gradient to the bar chart:  
-1. Select the bar chart > **Format** > **Data colors**.  
-2. Enable **Conditional formatting** (⚡ icon).  
+
 
 
 
